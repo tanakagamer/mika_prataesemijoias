@@ -148,6 +148,7 @@ const CatalogoOnline = () => {
 
   return (
     <div className="bg-white min-h-screen">
+    <meta name="google-adsense-account" content="ca-pub-4991459109548313"></meta>
       <link
         rel="icon"
         type="image/png"
